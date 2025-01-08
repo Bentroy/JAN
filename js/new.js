@@ -30,3 +30,21 @@ console.log(fruits);
 //Splice adds, removes or replace an element on the array
 
 //map 
+
+//conditional operators
+
+let currentYear = 2025;
+let age = 18;
+
+if (age<18){
+    console.log("You")
+}
+else{
+    console.log("you are young fam")
+}
+let response = (age = 18) ? "You" : "You are young fam";
+console.log(response);
+
+console.log(`you're ${age} year old, and you're old enough to vote`);
+console.log(" you're ")
+//think of any mini project you can do with any of the methid we used today
